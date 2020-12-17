@@ -22,5 +22,9 @@
       }
     }
   },
-  "projects": {}
+  "projects": {
+    "mygolf2u-core": {
+      "tags": []
+    }
+  }
 }
